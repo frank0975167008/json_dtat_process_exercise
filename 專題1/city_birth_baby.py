@@ -14,7 +14,7 @@ def main():
     plt.ylabel('嬰兒數')
     
     plt.show()
-
+    print("  ")
 
 
 if __name__ == "__main__":
